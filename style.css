@@ -13,7 +13,6 @@ html, body {
 
 .header .container {
   position: relative;
-  top: 200px;
 }
 
 .container {
@@ -29,7 +28,12 @@ html, body {
 
 }
 
+
+.nav{
+
+}
+
 .posts {
-  background-color: black;
+  background-color: #003333;
   color: white;
 }
