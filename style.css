@@ -2,5 +2,8 @@
 
 
 .header {
-  background: url(https://github.com/amizrob/unendedquest/blob/master/forest.jpg) no-repeat center center
+  background: url(https://github.com/amizrob/unendedquest/blob/master/forest.jpg) no-repeat center center;
+  background-size: cover;
+  text-align: center;
+  height: auto;
 }
