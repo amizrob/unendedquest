@@ -8,13 +8,19 @@
   height: 800px;
   margin: 0 auto;
   position: relative;
+  top: 200px;
 }
 
-.header h1 h2{
-  color: #009999
+.header h1 {
+  color: #009999;
+  line-height: 200px;
+  font-size: 80px;
+  margin-top: 0;
+  margin-bottom: 80px;
+
 }
 
 .posts {
-  background-color: #009999
-  text-color: white
+  background-color: #009999;
+  color: white;
 }
