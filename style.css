@@ -6,6 +6,8 @@
   background-size: cover;
   text-align: center;
   height: 800px;
+  margin: 0 auto;
+  position: relative;
 }
 
 .header h1 h2{
