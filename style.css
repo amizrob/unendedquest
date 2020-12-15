@@ -2,10 +2,10 @@
 
 
 .header {
-  background: url(https://raw.githubusercontent.com/amizrob/unendedquest/master/forest.jpg) no-repeat center center;
+  background: url(https://raw.githubusercontent.com/amizrob/unendedquest/master/forest.jpg)no-repeat center;
   background-size: cover;
   text-align: center;
-  height: auto;
+  height: 800px;
 }
 
 .header h1 h2{
