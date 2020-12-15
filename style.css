@@ -11,6 +11,7 @@
 
 .container {
   margin: 0;
+  text-align: center;
   max-width: 940px;
   padding: 0 10px;
   position: relative;
@@ -26,6 +27,6 @@
 }
 
 .posts {
-  background-color: #009999;
+  background-color: black;
   color: white;
 }
