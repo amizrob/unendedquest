@@ -49,6 +49,12 @@ html, body {
   transition: background .5s;
 }
 
+.nav ul li:hover {
+  background: #003333;
+  cursor: pointer;
+  transition: background .5s;
+}
+
 .posts {
   background-color: #003333;
   color: white;
