@@ -1,0 +1,23 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.div {
+background: #003333;
+}
+
+.footer {
+background: #000;
+height: 80px;
+padding-bottom: 25px;
+}
+
+.footer p {
+  color: #fff;
+  font-size: 14px;
+  height: 80px;
+  line-height: 80px;
+  margin: 0;
+  padding-left: 25px;
+}
