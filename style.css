@@ -55,20 +55,6 @@ html, body {
   transition: background .5s;
 }
 
-.posts {
-  background-color: black;
-  color: white;
-  padding: 0;
-  margin: 0;
-  height: 500px;
-}
-
-.posts:hover {
-  background: #003333;
-  cursor: pointer;
-  transition: background .5s;
-}
-
 .footer {
 background: #000;
 height: 80px;
