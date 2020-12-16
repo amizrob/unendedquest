@@ -3,27 +3,6 @@ html, body {
   padding: 0;
 }
 
-.header {
-  background: url(https://raw.githubusercontent.com/amizrob/unendedquest/master/forest.jpg)no-repeat center;
-  background-size: cover;
-  text-align: center;
-  height: 800px;
-  margin: 0;
-}
-
-.container {
-  margin: 0;
-  text-align: center;
-  max-width: 100%;
-}
-
-.header h1 {
-  line-height: 200px;
-  font-size: 80px;
-
-}
-
-
 .nav {
   background: #000;
   height: 80px;
@@ -53,6 +32,26 @@ html, body {
   background: #003333;
   cursor: pointer;
   transition: background .5s;
+}
+
+.header {
+  background: url(https://raw.githubusercontent.com/amizrob/unendedquest/master/forest.jpg)no-repeat center;
+  background-size: cover;
+  text-align: center;
+  height: 800px;
+  margin: 0;
+}
+
+.container {
+  margin: 0;
+  text-align: center;
+  max-width: 100%;
+}
+
+.header h1 {
+  line-height: 200px;
+  font-size: 80px;
+
 }
 
 .footer {
