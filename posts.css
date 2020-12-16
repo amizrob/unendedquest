@@ -42,12 +42,6 @@ html, body {
   height: 500px;
 }
 
-.posts ul li:hover {
-  background: black;
-  cursor: pointer;
-  transition: background .5s;
-}
-
 .footer {
 background: #000;
 height: 80px;
