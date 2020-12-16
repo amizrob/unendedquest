@@ -3,6 +3,20 @@ html, body {
   padding: 0;
 }
 
+.posts {
+  background-color: #003333;
+  color: white;
+  padding: 0;
+  margin: 0;
+  height: 500px;
+}
+
+.posts:hover {
+  background: black;
+  cursor: pointer;
+  transition: background .5s;
+}
+
 .footer {
 background: #000;
 height: 80px;
