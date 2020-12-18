@@ -34,8 +34,9 @@ html, body {
   transition: background .5s;
 }
 
-.div {
-background-color: #003333;
+.body {
+background-color: white;
+height: 500px;
 }
 
 .footer {
