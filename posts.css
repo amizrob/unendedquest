@@ -42,6 +42,12 @@ html, body {
   height: 500px;
 }
 
+.nav a {color: white;
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+}
+
 .footer {
 background: #000;
 height: 80px;
