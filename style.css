@@ -7,7 +7,6 @@ html, body {
   background: #000;
   height: 80px;
   width: 100%;
-
 }
 
 .nav ul {
@@ -40,8 +39,6 @@ html, body {
   display: inline-block;
 }
 
-}
-
 .header {
   background: url(https://raw.githubusercontent.com/amizrob/unendedquest/master/forest.jpeg)no-repeat center;
   background-size: cover;
@@ -49,7 +46,6 @@ html, body {
   height: 800px;
   margin: 0;
 }
-
 
 .container {
   margin: 0;
@@ -60,7 +56,6 @@ html, body {
 .header h1 {
   line-height: 200px;
   font-size: 80px;
-
 }
 
 .footer {
