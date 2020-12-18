@@ -34,12 +34,21 @@ html, body {
   transition: background .5s;
 }
 
+.nav a {color: white;
+  text-decoration: none;
+
+}
+
 .header {
   background: url(https://raw.githubusercontent.com/amizrob/unendedquest/master/forest.jpeg)no-repeat center;
   background-size: cover;
   text-align: center;
   height: 800px;
   margin: 0;
+}
+
+.paralax {
+
 }
 
 .container {
