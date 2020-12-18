@@ -36,6 +36,11 @@ html, body {
 
 .nav a {color: white;
   text-decoration: none;
+  background-color: #f44336;
+  padding: 14px 25px;
+  text-align: center;
+  display: inline-block;
+}
 
 }
 
