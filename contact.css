@@ -34,6 +34,12 @@ html, body {
   transition: background .5s;
 }
 
+.nav a {color: white;
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+}
+
 .body {
 background-color: white;
 height: 500px;
