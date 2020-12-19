@@ -3,8 +3,45 @@ html, body {
   padding: 0;
 }
 
-body{
+h1, button, .body{
   padding-left: 25px;
+}
+
+.nav {
+  background: #000;
+  height: 80px;
+  width: 100%;
+
+}
+
+.nav ul {
+  height: 80px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.nav ul li {
+  color: #fff;
+  display: inline-block;
+  height: 80px;
+  line-height: 80px;
+  list-style: none;
+  padding: 0 10px;
+  transition: background .5s;
+}
+
+.nav ul li:hover {
+  background: #003333;
+  cursor: pointer;
+  transition: background .5s;
+}
+
+.nav a {color: white;
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
 }
 
 button {
@@ -21,4 +58,19 @@ button {
 .body {
   float: left;
 
+}
+
+.footer {
+background: #000;
+height: 80px;
+padding-bottom: 25px;
+}
+
+.footer p {
+  color: #fff;
+  font-size: 14px;
+  height: 80px;
+  line-height: 80px;
+  margin: 0;
+  padding-left: 25px;
 }
