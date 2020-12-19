@@ -62,7 +62,7 @@ button {
 
 }
 
-h1, button, .body {
+h1, .body {
   float: left;
   width: 75%;
 }
@@ -71,6 +71,7 @@ h1, button, .body {
 background: #000;
 height: 80px;
 padding-bottom: 25px;
+float: none;
 }
 
 .footer p {
