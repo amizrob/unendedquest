@@ -3,10 +3,6 @@ html, body {
   padding: 0;
 }
 
-h1, button, .body{
-  padding-left: 25px;
-}
-
 .nav {
   background: #000;
   height: 80px;
