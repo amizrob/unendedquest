@@ -63,6 +63,7 @@ button {
 
 h1, button, .body {
   float: left;
+  width: 75%;
 }
 
 .footer {
