@@ -61,6 +61,10 @@ button {
 
 }
 
+h1, button, .body {
+  float: left;
+}
+
 .footer {
 background: #000;
 height: 80px;
