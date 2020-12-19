@@ -56,12 +56,16 @@ button {
   margin-left: 25px;
 }
 
-
+.body {
+  float: left;
+  width: 70%;
+}
 
 .footer {
 background: #000;
 height: 80px;
 padding-bottom: 25px;
+clear: both;
 }
 
 .footer p {
