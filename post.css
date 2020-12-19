@@ -1,6 +1,6 @@
 html, body {
   margin: 0;
-  padding: 0;
+  padding-left: 25px;
 }
 
 button {
@@ -16,4 +16,5 @@ button {
 
 .body {
   float: left;
+
 }
