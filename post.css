@@ -57,12 +57,11 @@ button {
 }
 
 .side{
-  float: right;
   width: 35%;
 
 }
 
-h1, .body {
+.body {
   float: left;
   width: 65%;
 }
