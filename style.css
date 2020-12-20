@@ -68,6 +68,8 @@ h2 {
 
 .influence img {
   float: left;
+  height: 500px;
+  background-color: white;
 }
 
 .footer {
