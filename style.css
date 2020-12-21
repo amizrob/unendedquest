@@ -70,7 +70,6 @@ h2 {
 .footer {
 background: #000;
 height: 80px;
-<!-- padding-bottom: 25px; -->
 }
 
 .footer p {
@@ -78,6 +77,4 @@ height: 80px;
   font-size: 14px;
   height: 80px;
   line-height: 80px;
-  <!-- margin: 0;
-  padding-left: 25px; -->
 }
