@@ -36,7 +36,6 @@ h2 {
 .nav ul li:hover {
   background: #003333;
   cursor: pointer;
-  padding: 10px 10px;
   transition: background .5s;
 }
 
