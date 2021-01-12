@@ -73,6 +73,7 @@ h2 {
 .footer {
 background: #000;
 height: 80px;
+position: relative;
 }
 
 .footer p {
