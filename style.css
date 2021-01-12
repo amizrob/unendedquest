@@ -61,6 +61,7 @@ h2 {
   margin: 0;
   text-align: center;
   max-width: 100%;
+  position: relative;
 }
 
 .header h1 {
