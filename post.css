@@ -13,8 +13,6 @@ h1, .body {
   background: #000;
   height: 80px;
   width: 100%;
-  position: fixed;
-  z-index: 10;
 }
 
 .nav ul {
@@ -62,14 +60,12 @@ button {
 .body {
   float: left;
   width: 65%;
-  position: relative;
 }
 
 .footer {
 background: #000;
 height: 80px;
 clear: both;
-position: relative;
 }
 
 .footer p {
