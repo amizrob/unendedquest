@@ -9,15 +9,15 @@ html, body {
   background: #000;
   height: 80px;
   width: 100%;
-
+  display: inline-block;
 }
 
 .nav ul {
   height: 80px;
   list-style: none;
-  margin: 0;
+  /*margin: 0;
   padding: 0;
-  text-align: center;
+  text-align: center;*/
 }
 
 .nav ul li {
@@ -27,13 +27,14 @@ html, body {
   line-height: 80px;
   list-style: none;
   padding: 0 10px;
-  transition: background .5s;
+  /*transition: background .5s;*/
 }
 
 .nav ul li:hover {
   background: #003333;
   cursor: pointer;
-  transition: background .5s;
+  transition: background 1s;
+  padding: 5px 10px;
 }
 
 .nav a {color: white;
@@ -45,7 +46,23 @@ html, body {
 .body {
 background-color: white;
 height: 500px;
-padding-left: 25px;
+/*padding-left: 25px;*/
+text-align: center;
+}
+
+button[type=submit] {
+  background-color: #003333;
+  border: none;
+  color: white;
+  padding: 10px 15px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button:active {
+  background-color: #000;
+  transform: translateY(4px);
 }
 
 .footer {
