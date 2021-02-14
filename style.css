@@ -1,7 +1,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  font-family: 'Gabriola', 'Cambria', sans-serif;
+  font-family: 'Gabriola', 'Cambria', serif;
   font-size: 18px;
 }
 
@@ -15,30 +15,33 @@ h2 {
   width: 100%;
   position: fixed;
   z-index: 10;
+  /*box-shadow: 0 5px 5px 5px grey;*/
 }
 
-.nav ul {
+/*.nav ul {
   height: 80px;
   list-style: none;
   margin: 0;
   padding: 0;
   text-align: center;
-}
+}*/
 
 .nav ul li {
   color: #fff;
   display: inline-block;
+  text-align: center;
   height: 80px;
   line-height: 80px;
   list-style: none;
   padding: 0 10px;
-  transition: background .5s;
+  /*transition: background .5s;*/
 }
 
 .nav ul li:hover {
   background: #003333;
   cursor: pointer;
-  transition: background .5s;
+  transition: background 1s;
+  padding: 5px 10px;
 }
 
 .nav a {color: white;
